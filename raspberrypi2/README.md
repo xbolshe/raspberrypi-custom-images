@@ -12,6 +12,11 @@ Link to download
 Login: root (no password)
 
 
+Installation
+====
+Use [Win32 Disk Imager for Windows](https://sourceforge.net/projects/win32diskimager/) or [dd for Linux]("https://en.wikipedia.org/wiki/Dd_(Unix)") to copy Linux image on SD card.
+
+
 Software packets
 ====
 * nodeJS 6.3.1
